@@ -21,6 +21,7 @@
 
     <p>New user? <a href="register.php">Register now</a></p>
     <P>Bhaaaagggggg</P>
+    <p><a href="new.php">getlost here </a></p>
 
         
     
